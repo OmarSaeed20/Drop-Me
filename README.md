@@ -123,7 +123,7 @@ Drop Me goes beyond traditional recycling apps, creating an immersive experience
 ## 📢 Application Contents:
 
 * The project follows Object-Oriented Programming (OOP) principles, adheres to SOLID principles, and implements Clean Architecture with Domain-Driven Design (DDD) concepts. This ensures a scalable and maintainable codebase.
-* 
+
 * There is a Realtime Channel Usnig Web-socket.
 
 * The development tools used in this project include dio, retrofit, retrofit_generator, build_runner, freezed, freezed_annotation, and json_serializable. These tools enable efficient API integration and data serialization.
