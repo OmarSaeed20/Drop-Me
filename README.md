@@ -68,58 +68,8 @@ Drop Me goes beyond traditional recycling apps, creating an immersive experience
 # 📢 Drop Me Pages
 
 > [!TIP]
-> [General Consultation Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
+> [Drop Me Pages](https://drive.google.com/drive/folders/1vX0DtK4S46bJ7N1dE1cj0Mjq2AZKjZew?usp=sharing).
    
-<details > 
-  <summary><h2>📕 Drop Me </h2></summary>
-
-| Verify Email | Register | Login |
-| ----- | ----- | ----- |
-| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/register.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/login.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Verify Email | Forget Password | Reset Password |
-| <img width=350px height=600px src="assets/verify email.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/forget password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/reset password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-</details>
- 
-<details > 
-  <summary><h2>🏁 Main Section</h2></summary>
-
-| home | notifications | alert exit app |
-| ----- | ----- | ----- |
-| <img width=350px height=600px src="assets/home.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/notifications.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert exit app.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Categories virtical view | Categories grid view | Filter categories-1 |
-| <img width=350px height=600px src="assets/categories virtical view.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/categories grid view.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/Filter categories-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Filter categories-2 | Consultant details-1 | Consultant details-2 |
-| <img width=350px height=600px src="assets/Filter categories-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/Consultant details-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/Consultant details-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Consultant details-3 | Consultant details location | consultant's advertisements-1 |
-| <img width=350px height=600px src="assets/Consultant details-3.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/Consultant details location.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/Consultant details-4.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| consultant's advertisements-2 | consultant's advertisements-3 | Alert hide ads |
-| <img width=350px height=600px src="assets/consultant's advertisements-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/consultant's advertisements-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert hide ads.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Subscription packages | account-1 | account-2 |
-| <img width=350px height=600px src="assets/Subscription packages.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/account.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/alert logout.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-</details>
- 
-<details open> 
-  <summary><h2> 💭 Chat Section</h2></summary>
-
-| chat-1 | chat-image-1 | chat-image-2 |
-| ----- | ----- | ----- |
-| <img width=350px height=600px src="assets/chat-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/chat-image-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/chat-image-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| chats | chat-recording-1 | chat-record-2 |
-| <img width=350px height=600px src="assets/chats.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/chat-recording-1.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/chat-record-2.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-</details>
-
-<details > 
-  <summary><h2> 🤖 Account Section</h2></summary>
-
-| About App | Change Password | Choose Language |
-| ----- | ----- | ----- |
-| <img width=350px height=600px src="assets/about app.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/change password.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/choose language.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| Contact Us | create - edit advertisement | my advertisement |
-| <img width=350px height=600px src="assets/contact us.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | <img width=350px height=600px src="assets/create - edit advertisement.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |  <img width=350px height=600px src="assets/my advertisement.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> |
-| customer Inquiries | ---- | ---- |
-| <img width=350px height=600px src="assets/customer Inquiries.jpg" alt="Illustration of a sun in light mode and a moon with stars in dark mode."> | | |
-</details>
-
 ## 📢 Application Contents:
 
 * The project follows Object-Oriented Programming (OOP) principles, adheres to SOLID principles, and implements Clean Architecture with Domain-Driven Design (DDD) concepts. This ensures a scalable and maintainable codebase.
